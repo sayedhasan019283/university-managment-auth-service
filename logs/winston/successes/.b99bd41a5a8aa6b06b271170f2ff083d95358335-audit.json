@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\projects\\University-managment-system\\Backend\\university-managment-auth-service\\logs\\winston\\successes\\.b99bd41a5a8aa6b06b271170f2ff083d95358335-audit.json",
+    "files": [
+        {
+            "date": 1685887134060,
+            "name": "C:\\projects\\University-managment-system\\Backend\\university-managment-auth-service\\logs\\winston\\successes\\phu-2023-04-06-19-error.log",
+            "hash": "0b51e15336f33fc4f108b4f1b89dfb2b6c8ac1df42bfeddd781e611525e5d3e5"
+        },
+        {
+            "date": 1685887219567,
+            "name": "C:\\projects\\University-managment-system\\Backend\\university-managment-auth-service\\logs\\winston\\successes\\phu-2023-04-06-20-error.log",
+            "hash": "4090449865aefe0ed72836aeb5ccea74c076989c7b52129d46e5a2af3d4017d1"
+        },
+        {
+            "date": 1685895578567,
+            "name": "C:\\projects\\University-managment-system\\Backend\\university-managment-auth-service\\logs\\winston\\successes\\phu-2023-04-06-22-error.log",
+            "hash": "b45143b2ad12ab1ac395d24824a3e467fde3a248358a7d41cb6507dbd66fcda5"
+        },
+        {
+            "date": 1685965354197,
+            "name": "C:\\projects\\University-managment-system\\Backend\\university-managment-auth-service\\logs\\winston\\successes\\phu-2023-05-06-17-error.log",
+            "hash": "adac22484bdb7678a2ee488cba4fe5411ff0011376ba4b1853ec2d4228a9bd30"
+        },
+        {
+            "date": 1685966519924,
+            "name": "C:\\projects\\University-managment-system\\Backend\\university-managment-auth-service\\logs\\winston\\successes\\phu-2023-05-06-18-error.log",
+            "hash": "1cd0cd5386bc6bbf4c6929967d2ef6a9da87844c768628a1298794e0560583dc"
+        },
+        {
+            "date": 1685970118524,
+            "name": "C:\\projects\\University-managment-system\\Backend\\university-managment-auth-service\\logs\\winston\\successes\\phu-2023-05-06-19-error.log",
+            "hash": "ba843ffd9de34083cb11c8339b27d1d5068b0682105810edfc3facb15e064fe7"
+        }
+    ],
+    "hashType": "sha256"
+}
